@@ -1,0 +1,12 @@
+**/__pycache__
+**/.idea
+**/.ipynb_checkpoints
+/uta/ModelManagement/OpenAI/openaikey.txt
+/uta/ModelManagement/GoogleOCR/googleapikey.txt
+local_test.py
+.DS_Store
+/uta/UIProcessing/GUI.py
+/deprecated/
+/old_test_data/
+/uta/config.py
+/data

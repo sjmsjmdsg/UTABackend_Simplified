@@ -1,0 +1,1 @@
+from uta.TaskDeclearation.TaskDeclarator import TaskDeclarator

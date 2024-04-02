@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+google-play-scraper
+openai
+pillow
+pure-python-adb
+xmltodict
+numpy
+opencv-python
+torch
+torchvision
+tiktoken
